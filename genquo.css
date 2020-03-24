@@ -165,3 +165,7 @@ footer{
 .p1{
     margin: 0 0 60px 0;
 }
+.footer{
+    display: flex;
+    align-items: center;
+}
