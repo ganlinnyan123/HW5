@@ -167,7 +167,6 @@ footer{
     margin: 0 0 60px 0;
 }
 .footer{
-    border: solid;
     display: flex;
     justify-content: center;
 }
